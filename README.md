@@ -19,7 +19,15 @@ Pie chart (Marks distribution)
 ✨ Enhanced UI/UX with modern styles and feedback
 
 🖼️ Screenshots
-File Selection	Visualizations
+
+## 🖼️ Screenshots
+
+### 📁 File Selection
+![Select File](assets/select-file.png)
+
+### 📊 Visualization Window
+![Charts Display](assets/visualization.png)
+
 
 (You can add these screenshots to your repo in an assets/ folder)
 
